@@ -1,0 +1,58 @@
+.body {
+    /* background-color: blue; */
+    background: linear-gradient(120deg, #211B53, #ECE3E6);
+    width: 100vw;
+    height: 100vh;
+}
+
+.navbar-brand {
+    font-family: Helvetica;
+    color: white !important;
+    display: inline-block;
+    padding: 10px;
+    background: rgb(51, 63, 131);
+    font-size: x-large;
+    /* need to make the font white */
+    /* need to get the bar box to go to the bottom of the nav bar */
+  }
+
+.col-md-12 {
+    font-family: Helvetica;
+    color:  rgb(51, 63, 131);
+
+}
+
+.col-md-7 img{
+    float: left;
+    width: 30%;
+}
+
+.col-md-7 {
+    background-color: white;
+}
+
+.col-md-1 {
+    background-color: rgb(228, 228, 228);
+}
+
+.col-md-4 {
+    background-color: white;
+    font-family: Helvetica;
+    color:  rgb(51, 63, 131);
+}
+
+.row {
+     margin: 15px;
+}
+
+.container-comparison {
+    background-color: white;
+    margin: auto;
+	width: 75%;
+}
+
+.container {
+    background-color: white;
+    margin: auto;
+	width: 75%;
+}
